@@ -6,6 +6,9 @@ Algorítmo do cálculo de recolhimento de contribuição ao INSS (Reforma 2020)
 ## Autor
 Marcos Eduardo da Silva Santos (UECE)
 
+## Sobre
+Projeto Opensource. Fique a vontade para criar issues, sugierir mundaças, corrigir e colaborar incluindo algoritmos que realizem cálculos de recolhimento de contribuição ao INSS e outros impostos relacionados.
+
 ## Download
 - **Jar**: [Link para download](https://github.com/marcoseduardoss/recolhimento-inss-brasil/raw/master/build/recolhimento-inss-brasil-1.0.0.jar)
 
