@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:    
-      - name: Clonando repositório
+      - name: Clonando repositorio
       - uses: actions/checkout@v2
       
       - name: Configurando ambiente Java (JDK 11)
