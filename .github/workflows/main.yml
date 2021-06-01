@@ -1,8 +1,6 @@
 name: CI-MARCOS-EDUARDO
 
 on:
-  push:
-    branches: [ main ]
   pull_request:
     branches: [ main ]
 
