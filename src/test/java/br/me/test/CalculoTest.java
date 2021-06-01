@@ -88,4 +88,9 @@ public class CalculoTest {
 	public void deveArredondar() {
 		 assertEquals( 25.36D , INSS.round(25.358), DELTA);
 	}
+	
+	@Test
+	public void deveArredondar2() {
+		 assertEquals( 25.36D , INSS.round(25.359), DELTA);
+	}
 }
