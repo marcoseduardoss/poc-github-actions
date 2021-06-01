@@ -21,3 +21,9 @@ jobs:
           
       - name: Excutando os testes e construindo o projeto
         run: mvn test
+        
+      - name: Comentando PR
+        uses: thollander/actions-comment-pull-request@master
+        with:
+          message: 'Obrigado pela PR. Ela será será revisada em breve !'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
