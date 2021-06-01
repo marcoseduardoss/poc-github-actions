@@ -1,6 +1,8 @@
-import static org.junit.Assert.assertEquals;
+package br.me.test;
 
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
 
 import br.me.calculo.INSS;
 
